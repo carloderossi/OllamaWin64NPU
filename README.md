@@ -1,4 +1,4 @@
-# OllamaWin64NPU
+# OllamaWin64GPU-NPU
 How to run Ollama using the Intel NPU on a windows Notebook
 End‑to‑end setup, optimization, and IPEX‑LLM integration
 
