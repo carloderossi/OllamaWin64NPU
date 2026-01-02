@@ -98,4 +98,12 @@ To ensure Ollama prefers the Intel GPU:
 ```cmd
 setx OLLAMA_USE_GPU 1
 setx OLLAMA_DEVICE xpu
+```
+look in the Ollama logs for
+```cmd
+using device SYCL0 (Intel(R) Arc(TM) Graphics)
+Found 1 SYCL devices:
+Intel Arc Graphics
+offloaded 29/29 layers to GPU
+```
 
